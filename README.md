@@ -1,11 +1,11 @@
-# Molecular Solubility Prediction 🧪
+# Molecular Solubility Prediction
 
 This repository contains my **first machine learning project**, completed by following a tutorial by **Data Professor**.  
 The objective is to build regression models that predict the **aqueous solubility of molecules (logS)** using molecular descriptors.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses the **Delaney Solubility with Descriptors** dataset, which includes molecular properties such as:
 - Molecular Weight
@@ -14,7 +14,7 @@ The project uses the **Delaney Solubility with Descriptors** dataset, which incl
 
 ---
 
-## 📝 Methodology
+## Methodology
 
 1. **Data Splitting**
    - Training set: 80%
@@ -32,7 +32,7 @@ The project uses the **Delaney Solubility with Descriptors** dataset, which incl
 
 ---
 
-## 📊 Results
+## Results
 
 The **Random Forest Regressor** achieved better performance on the test set compared to **Linear Regression**.
 
@@ -43,7 +43,7 @@ The **Random Forest Regressor** achieved better performance on the test set comp
 
 ---
 
-## 🛠️ Libraries Used
+## Libraries Used
 
 - **Pandas** – data handling and preprocessing  
 - **Scikit-learn** – model training and evaluation  
